@@ -1,7 +1,3 @@
-ได้เลย 👍 เอาแบบ **ก๊อปวางได้ทันที (README.md)** 👇
-
----
-
 ````markdown
 # Item Matching Engine / Data Mapping System
 
